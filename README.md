@@ -14,7 +14,7 @@ A collection of my contribution to the 30 days of mapping.
 ### Title: Botswana Diamond Mines
 Botswana shines as a global leader in the diamond industry, holding the prestigious title of the world's largest producer of diamonds by value and securing the second position by carats, just behind Russia. The nation boasts a robust diamond mining sector, housing several significant mines, including the Jwaneng Mine, renowned as the world's richest diamond mine in terms of value, and the Orapa Mine, which ranks as the world's largest in terms of area. Botswana's diamond production in 2022 alone exceeded an impressive 24.5 million carats.These exquisite gems have played a pivotal role in Botswana's extraordinary transformation, propelling it into the ranks of prosperous African nations. The revenues generated from the diamond industry have been instrumental in fueling vital sectors such as education, healthcare, and infrastructure development, paving the way for a brighter future.
 
-Data Source: [GADM level 1](https://gadm.org/download_country.html) , [GlobalData]([https://www.hydrosheds.org/products/hydrorivers](https://www.globaldata.com/store/report/diamond-mining-market-analysis/) [Statista](https://www.statista.com/topics/1704/diamond-industry/#topicOverview)
+Data Source: [GADM level 1](https://gadm.org/download_country.html) , [GlobalData](https://www.globaldata.com/store/report/diamond-mining-market-analysis/) [Statista](https://www.statista.com/topics/1704/diamond-industry/#topicOverview)
 Tools Used: QGIS for initial mapping, followed by enhancement with Canva.
 ---
 ## Day 2: Lines
