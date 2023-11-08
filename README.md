@@ -7,10 +7,10 @@ A collection of my contribution to the 30 days of mapping.
 - [Day 1 Points: Botswana Diamond Mines](#day-1-points)
 - [Day 2 Lines:  Botswana Hydrosheds Map](#day-2-Lines)
 - [Day 3 Polygons: The Delta Dessert Delta: Okavango](#day-3-polygons)
-- [Day 5 Analog Map: Gaborone 2020 Road Network](#-day-5-analog-map)
-- [Day 6 Asia: Shaded Relief Map of Asia](#-day-6-asia)
-- [Day 7 Navigation: My Daily High School Route](#-day-7-navigation)
-- [Day 8 Africa: Shaded Relief Map of Africa](#-day-6-asia)
+- [Day 5 Analog Map: Gaborone 2020 Road Network](#day-5-analog-map)
+- [Day 6 Asia: Shaded Relief Map of Asia](#day-6-asia)
+- [Day 7 Navigation: My Daily High School Route](#day-7-navigation)
+- [Day 8 Africa: Shaded Relief Map of Africa](#day-8-africa)
 
 ## Day 1: Points 
 ### Title: Botswana Diamond Mines
