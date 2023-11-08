@@ -44,8 +44,8 @@ Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionate
 ---
 ## Day 6: Asia
 ### Title: Shaded Relief Map of Asia
-![Asia](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-6_Asia/Shaded%20Relief%20Map.png)
 A shaded relief map of the Asian continent prominently highlighting the Tibetan Plateau, famously known as "the roof of the world". It is the largest and highest plateau in the world, boasting an average elevation of 4,500 m and covering a vast area of approximately 2,500,000 square kilometers. The plateu is surrounded by imposing mountain ranges that harbor the world's two highest summits, Mount Everest and K2.
+![Asia](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-6_Asia/Shaded%20Relief%20Map.png)
 
   Data: [HydroSHEDS v1 (DEM)](https://www.hydrosheds.org/hydrosheds-core-downloads) from the SRTM (resolution~90m),
   Tools: QGIS; Canva
@@ -64,9 +64,8 @@ Tools: Blender and QGIS
 ---
 ## Day 8: Africa
 ### Title: A shaded Relief Map of Africa
+Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands.
 ![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
-
-Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands. 
 
 [High Resolution Image:](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
 Data: SRTM data downloaded from EarthEngine
