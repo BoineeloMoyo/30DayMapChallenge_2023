@@ -75,4 +75,10 @@ Tools: EarthEngine, QGIS
 
 ## Day 9: Hexagons
 ### Title: 
-[Global Emissions](https://edgar.jrc.ec.europa.eu/gallery?release=v70ghg&substance=CO2_excl_short-cycle_org_C&sector=TOTALS)
+![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Kircheim_HexMap.png)
+This Hexagon Map visualizes the green spaces in Kircheim Unter Teck, a small city in Baden-Wurtemberg. These spaces support outdoor activities, a healthy lifestyle, and mental well-being. They significantly influence urban life quality and the environment. Darker colors represent fewer and smaller green spaces.
+[Data](https://www.kirchheim-teck.de/de/Freizeit-Tourismus/Freizeit-Sport/Gaerten-Parks), OSM
+Tools: QGIS, Canva
+
+
+---
