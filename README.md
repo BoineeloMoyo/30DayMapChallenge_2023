@@ -51,9 +51,7 @@ A shaded relief map of the Asian continent prominently highlighting the Tibetan 
 ---
 ## Day 7: Navigation
 ### Title: My daily high school Route
-![Navigation]
-
-https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/assets/82944675/7ebec77f-3f23-4344-92d9-436158f58070
+![Nav](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/assets/82944675/7ebec77f-3f23-4344-92d9-436158f58070)
 
 On a personal note, today's map shows the distance and path I walked during my high school years. I spent a significant portion of my life in a small, rural village in Zimbabwe, where the nearest secondary school was approximately 15 kilometers from our home. This meant walking (mostly) sometimes but rarely cycling for about 28km to and fro school everyday, until i succesfully completed my high school education (4 years). This was and continues to be the norm, with only a small fraction of children having the privilege of even attending school. This upbringing molded me into being a resilient, strong work ethic and an unwavering determined young adult i am today.
 
