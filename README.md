@@ -25,20 +25,20 @@ Botswana shines as a global leader in the diamond industry, holding the prestigi
 ---
 ## Day 2: Lines
 ### Title: Botswana Hydrosheds Map
-![Hydrosheds](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-2_Lines/Botswana%20RiverBasins.png)
 A map of Botswana hydrosheds illustrating the unique drainage basins of the country's various river systems using distinct colors. Major rivers are interconnected with their tributaries, all contributing to the overall drainage basin of the larger river systems.
 
   Data Source: [HydroSHEDS database](https://www.hydrosheds.org/products/hydrorivers), [GADM level 1](https://gadm.org/download_country.html)
   Tools Used: QGIS for initial mapping, followed by enhancement with Canva.
+![Hydrosheds](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-2_Lines/Botswana%20RiverBasins.png)
 
 
 ---
 ## Day 3: Polygons
 ### Title: The Delta Dessert Delta: Okavango
-![Okavango](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-3_Polygons/Okavango%20Delta.png)
 Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionately known as "the delta that looks like a hand,", truly exemplifies Botswana's natural wonders. Its pristine waters not only support a rich tapestry of aquatic life but also attract a wealth of bird species, making it a vital birdwatcher's paradise. The Okavango Delta is also one of Botswana's major tourist attractions. The delta is surrounded by the renowned Chobe and Moremi national parks, offering a breathtaking showcase of biodiversity. Visitors are treated to the presence of the African Big Five—lion, elephant, rhinoceros, leopard, and buffalo, providing an unforgettable safari experience-
   Data Source: OSM 
   Tools: QGIS, Canva
+![Okavango](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-3_Polygons/Okavango%20Delta.png)
 
 
 ---
