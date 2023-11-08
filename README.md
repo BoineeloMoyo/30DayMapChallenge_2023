@@ -64,3 +64,15 @@ Tools: Blender and QGIS
 ## Day 8: Africa
 ### Title: A shaded Relief Map of Africa
 ![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
+
+Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands. 
+
+Detailed Image: https://lnkd.in/eQvvxzNp
+Data: SRTM data downloaded from EarthEngine
+Tools: EarthEngine, QGIS
+
+---
+
+## Day 9: Hexagons
+### Title: 
+[Global Emissions](https://edgar.jrc.ec.europa.eu/gallery?release=v70ghg&substance=CO2_excl_short-cycle_org_C&sector=TOTALS)
