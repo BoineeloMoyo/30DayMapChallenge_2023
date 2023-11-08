@@ -11,6 +11,7 @@ A collection of my contribution to the 30 days of mapping.
 - [Day 6 Asia: Shaded Relief Map of Asia](#day-6-asia)
 - [Day 7 Navigation: My Daily High School Route](#day-7-navigation)
 - [Day 8 Africa: Shaded Relief Map of Africa](#day-8-africa)
+- [Day 9 Hexagons: Hex-Map of Kircheim Green Free Spaces](#day-9-hexagons)
 
 ## Day 1: Points 
 ### Title: Botswana Diamond Mines
@@ -74,9 +75,11 @@ Tools: EarthEngine, QGIS
 ---
 
 ## Day 9: Hexagons
-### Title: 
-![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Kircheim_HexMap.png)
+### Title: Hex-Map of Kircheim Unter Teck Free Green Spaces
+
 This Hexagon Map visualizes the green spaces in Kircheim Unter Teck, a small city in Baden-Wurtemberg. These spaces support outdoor activities, a healthy lifestyle, and mental well-being. They significantly influence urban life quality and the environment. Darker colors represent fewer and smaller green spaces.
+![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Kircheim_HexMap.png)
+
 [Data](https://www.kirchheim-teck.de/de/Freizeit-Tourismus/Freizeit-Sport/Gaerten-Parks), OSM
 Tools: QGIS, Canva
 
