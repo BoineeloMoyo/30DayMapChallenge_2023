@@ -67,7 +67,7 @@ Tools: Blender and QGIS
 
 Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands. 
 
-Detailed Image: https://lnkd.in/eQvvxzNp
+[High Resolution Image:](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
 Data: SRTM data downloaded from EarthEngine
 Tools: EarthEngine, QGIS
 
