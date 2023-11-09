@@ -96,3 +96,11 @@ Tools: QGIS, Canva
 
 
 ---
+
+## Day 10: North America
+### Forest Canopy Height of the US in 2020
+This map shows the 2020 forest canopy height of the USA. The map was produced based on on the high resolution ETH Global Sentinel-2 10m Canopy Height data. Forests not only play a crucial role in sequestering carbon, helping combat climate change, but they also harbor a rich tapestry of biodiversity. 🌲🌳 #ForestConservation
+![forest]()
+
+Data: [ETH Global Sentinel-2 10m Canopy Height (2020)](https://gee-community-catalog.org/projects/canopy/) 
+Tools: Google earth engine
