@@ -1,6 +1,8 @@
+# 30-Day-Map-Challenge 2023 
 
-# 30 Day Map Challenge 2023 
 ![header](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/supporting/%2330DayMapChallenge%202023.png)
+
+---
 
 ## Table of Content:
 
