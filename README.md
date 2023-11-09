@@ -9,7 +9,7 @@
 - [Day 1 Points: Botswana Diamond Mines](#day-1-points)
 - [Day 2 Lines:  Botswana Hydrosheds Map](#day-2-Lines)
 - [Day 3 Polygons: The Delta Dessert Delta: Okavango](#day-3-polygons)
-- [Day 5 Analog Map: Gaborone 2020 Road Network](#day-5-analog-map)
+- [Day 5 Analog Map: A hand drawn African Map](#day-5-analog)
 - [Day 6 Asia: Shaded Relief Map of Asia](#day-6-asia)
 - [Day 7 Navigation: My Daily High School Route](#day-7-navigation)
 - [Day 8 Africa: Shaded Relief Map of Africa](#day-8-africa)
@@ -45,7 +45,7 @@ Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionate
 
 ---
 ## Day 5: Analog
-### A hand drawn African Map or analog Gaborone Road network
+### A hand drawn African Map
 
 This is a simple African continent boundary which i traced on a blank paper then scanned and edited it on Canva. 
 ![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-5_Analog/30DayMapChalenge.png)
