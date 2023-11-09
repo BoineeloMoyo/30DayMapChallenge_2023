@@ -46,8 +46,11 @@ Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionate
 ---
 ## Day 5: Analog
 ### A hand drawn African Map or analog Gaborone Road network
+
 This is a simple African continent boundary which i traced on a blank paper then scanned and edited it on Canva. 
 ![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-5_Analog/30DayMapChalenge.png)
+
+
 ---
 ## Day 6: Asia
 ### Shaded Relief Map of Asia
