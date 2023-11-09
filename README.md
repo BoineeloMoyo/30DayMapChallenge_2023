@@ -44,6 +44,11 @@ Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionate
 
 
 ---
+## Day 5: Analog
+### A hand drawn African Map or analog Gaborone Road network
+This is a simple African continent boundary which i traced on a blank paper then scanned and edited it on Canva. 
+![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-5_Analog/30DayMapChalenge.png)
+---
 ## Day 6: Asia
 ### Shaded Relief Map of Asia
 A shaded relief map of the Asian continent prominently highlighting the Tibetan Plateau, famously known as "the roof of the world". It is the largest and highest plateau in the world, boasting an average elevation of 4,500 m and covering a vast area of approximately 2,500,000 square kilometers. The plateu is surrounded by imposing mountain ranges that harbor the world's two highest summits, Mount Everest and K2.
