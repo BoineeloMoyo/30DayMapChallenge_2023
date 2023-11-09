@@ -80,10 +80,10 @@ Tools: EarthEngine, QGIS
 ## Day 9: Hexagons
 ### Hex-Map of Kircheim Unter Teck Free Green Spaces
 
-This Hexagon Map visualizes the green spaces in Kircheim Unter Teck, a small city in Baden-Wurtemberg. These spaces support outdoor activities, a healthy lifestyle, and mental well-being. They significantly influence urban life quality and the environment. Darker colors represent fewer and smaller green spaces.
+This Hexagon Map visualizes the free green spaces in Kircheim Unter Teck, a small city in Baden-Württemberg. These are free spaces that support outdoor activities, a healthy lifestyle, and mental well-being. They significantly influence urban life quality and the environment. Darker colors represent fewer and smaller green spaces while lighter represents more green space spatial coverage. 
 ![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Kircheim_HexMap.png)
 
-[Data](https://www.kirchheim-teck.de/de/Freizeit-Tourismus/Freizeit-Sport/Gaerten-Parks), OSM
+Data: [Kircheim City & Townhall website](https://www.kirchheim-teck.de/de/Stadt-Rathaus/Rathaus/Stadtverwaltung/Abteilung?view=publish&item=level2&id=11), OSM
 Tools: QGIS, Canva
 
 
