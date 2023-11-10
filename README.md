@@ -105,3 +105,16 @@ This map shows the 2020 forest canopy height of the USA. The map was produced ba
 
 Data: [ETH Global Sentinel-2 10m Canopy Height (2020)](https://gee-community-catalog.org/projects/canopy/) 
 Tools: Google earth engine
+
+
+---
+## Day 101: Retro
+### Retro Map of Mozambique
+
+A basic retro map of Mozambique showing major cities, roads terrain and water bodies. 
+![retro](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro%20Map.png)
+
+[High Resolution Image](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro%20Map.png)
+Data: OSM, SRTM for the hillshade. 
+Tools: QGIS, Canva
+Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=13)
