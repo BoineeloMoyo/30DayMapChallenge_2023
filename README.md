@@ -15,6 +15,7 @@
 - [Day 8 Africa: Shaded Relief Map of Africa](#day-8-africa)
 - [Day 9 Hexagons: Hex-Map of Kircheim Green Free Spaces](#day-9-hexagons)
 - [Day 10 North America: Forest Canopy Height of the US in 2020](#day-10-north-america)
+- [Day 11 Retro: Retro Map of Mozambique](#day-11-retro)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -100,7 +101,7 @@ Tools: QGIS, Canva
 
 ## Day 10: North America
 ### Forest Canopy Height of the US in 2020
-This map shows the 2020 forest canopy height of the USA. The map was produced based on on the high resolution ETH Global Sentinel-2 10m Canopy Height data. Forests not only play a crucial role in sequestering carbon, helping combat climate change, but they also harbor a rich tapestry of biodiversity. 🌲🌳 #ForestConservation
+This map shows the 2020 forest canopy height of the USA. The map was produced based on the high resolution ETH Global Sentinel-2 10m Canopy Height data. Forests not only play a crucial role in sequestering carbon, helping combat climate change, but they also harbor a rich tapestry of biodiversity. 🌲🌳 #ForestConservation
 ![forest](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-10_NorthAmerica/foresr%20canopy%20usa.png)
 
 Data: [ETH Global Sentinel-2 10m Canopy Height (2020)](https://gee-community-catalog.org/projects/canopy/) 
@@ -108,7 +109,8 @@ Tools: Google earth engine
 
 
 ---
-## Day 101: Retro
+
+## Day 11: Retro
 ### Retro Map of Mozambique
 
 A basic retro map of Mozambique showing major cities, roads terrain and water bodies. 
@@ -118,3 +120,6 @@ A basic retro map of Mozambique showing major cities, roads terrain and water bo
 Data: OSM, SRTM for the hillshade. 
 Tools: QGIS, Canva
 Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=13)
+
+
+---
