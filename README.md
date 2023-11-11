@@ -114,12 +114,11 @@ Tools: Google earth engine
 ### Retro Map of Mozambique
 
 A basic retro map of Mozambique showing major cities, roads terrain and water bodies. 
-![retro](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro%20Map.png)
-
-[High Resolution Image](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro%20Map.png)
+High Resolution Image [Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro.png)
 Data: OSM, SRTM for the hillshade. 
 Tools: QGIS, Canva
 Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=13)
+![retro](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro.png)
 
 
 ---
