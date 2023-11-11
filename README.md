@@ -131,7 +131,7 @@ Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLv
 ### Peru Relief Shaded and Hydrosheds Map
 
 Hydrosheds Map of Peru: This map combines a shaded relief representation with overlaid rivers and tributaries, organized by their major hydrological basins and scaled according to their size. The purpose is to visually convey the distinctive topography and drainage basins inherent in Peru's diverse river systems.
-Check the high resolution image [here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/Peru.png)
+Check the high resolution image [here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/peru_rivers.png)
 Data: Hydrobasins + hydrorivers from the HydroSHEDS database
 
-![peru](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/Peru.png)
+![peru](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/peru_rivers.png)
