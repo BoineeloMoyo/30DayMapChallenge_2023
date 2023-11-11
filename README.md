@@ -16,6 +16,7 @@
 - [Day 9 Hexagons: Hex-Map of Kircheim Green Free Spaces](#day-9-hexagons)
 - [Day 10 North America: Forest Canopy Height of the US in 2020](#day-10-north-america)
 - [Day 11 Retro: Retro Map of Mozambique](#day-11-retro)
+- [Day 12 South America: Hydrosheds Relief Shaded Map of Peru](#day-12-south-america)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -57,10 +58,10 @@ This is a simple African continent boundary which i traced on a blank paper then
 ## Day 6: Asia
 ### Shaded Relief Map of Asia
 A shaded relief map of the Asian continent prominently highlighting the Tibetan Plateau, famously known as "the roof of the world". It is the largest and highest plateau in the world, boasting an average elevation of 4,500 m and covering a vast area of approximately 2,500,000 square kilometers. The plateu is surrounded by imposing mountain ranges that harbor the world's two highest summits, Mount Everest and K2.
-![Asia](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-6_Asia/Shaded%20Relief%20Map.png)
-
   Data: [HydroSHEDS v1 (DEM)](https://www.hydrosheds.org/hydrosheds-core-downloads) from the SRTM (resolution~90m),
   Tools: QGIS; Canva
+
+![Asia](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-6_Asia/Shaded%20Relief%20Map.png)
 
 
 ---
@@ -79,11 +80,13 @@ https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/assets/82944675/85fb7fbc
 ## Day 8: Africa
 ### A shaded Relief Map of Africa
 Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands.
-![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
-
 [High Resolution Image:](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
 Data: SRTM data downloaded from EarthEngine
 Tools: EarthEngine, QGIS
+
+![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
+
+
 
 ---
 
@@ -91,10 +94,11 @@ Tools: EarthEngine, QGIS
 ### Hex-Map of Kircheim Unter Teck Free Green Spaces
 
 This Hexagon Map visualizes the free green spaces in Kircheim Unter Teck, a small city in Baden-Württemberg. These are free spaces that support outdoor activities, a healthy lifestyle, and mental well-being. They significantly influence urban life quality and the environment. Darker colors represent fewer and smaller green spaces while lighter represents more green space spatial coverage. 
-![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Hex_map.png)
-
 Data: [Kircheim City & Townhall website](https://www.kirchheim-teck.de/de/Stadt-Rathaus/Rathaus/Stadtverwaltung/Abteilung?view=publish&item=level2&id=11), OSM
 Tools: QGIS, Canva
+
+![Hexagons](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-9_Hexagons/Hex_map.png)
+
 
 
 ---
@@ -102,11 +106,10 @@ Tools: QGIS, Canva
 ## Day 10: North America
 ### Forest Canopy Height of the US in 2020
 This map shows the 2020 forest canopy height of the USA. The map was produced based on the high resolution ETH Global Sentinel-2 10m Canopy Height data. Forests not only play a crucial role in sequestering carbon, helping combat climate change, but they also harbor a rich tapestry of biodiversity. 🌲🌳 #ForestConservation
-![forest](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-10_NorthAmerica/foresr%20canopy%20usa.png)
-
 Data: [ETH Global Sentinel-2 10m Canopy Height (2020)](https://gee-community-catalog.org/projects/canopy/) 
 Tools: Google earth engine
 
+![forest](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-10_NorthAmerica/foresr%20canopy%20usa.png)
 
 ---
 
@@ -118,7 +121,17 @@ High Resolution Image [Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_
 Data: OSM, SRTM for the hillshade. 
 Tools: QGIS, Canva
 Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=13)
+
 ![retro](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro.png)
 
 
 ---
+
+## Day 12: South America
+### Peru Relief Shaded and Hydrosheds Map
+
+Hydrosheds Map of Peru: This map combines a shaded relief representation with overlaid rivers and tributaries, organized by their major hydrological basins and scaled according to their size. The purpose is to visually convey the distinctive topography and drainage basins inherent in Peru's diverse river systems.
+Check the high resolution image [here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/Peru.png)
+Data: Hydrobasins + hydrorivers from the HydroSHEDS database
+
+![peru](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/Peru.png)
