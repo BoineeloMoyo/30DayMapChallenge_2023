@@ -17,6 +17,7 @@
 - [Day 10 North America: Forest Canopy Height of the US in 2020](#day-10-north-america)
 - [Day 11 Retro: Retro Map of Mozambique](#day-11-retro)
 - [Day 12 South America: Hydrosheds Relief Shaded Map of Peru](#day-12-south-america)
+- [Day 13 Choroleth: Violent Crime Analysis in London Boroughs](#day-13-choropleth)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
