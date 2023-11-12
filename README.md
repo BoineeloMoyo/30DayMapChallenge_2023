@@ -18,6 +18,7 @@
 - [Day 11 Retro: Retro Map of Mozambique](#day-11-retro)
 - [Day 12 South America: Hydrosheds Relief Shaded Map of Peru](#day-12-south-america)
 - [Day 13 Choroleth: Violent Crime Analysis in London Boroughs](#day-13-choropleth)
+- [Day 14 Europe: Interactive Map of Education Levels in Swiss](#day-14-europe)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -159,5 +160,5 @@ Data: [Federal Office for Statistics](https://www.bfs.admin.ch/asset/de/px-x-150
 Tools: R and Rpub
 Interactive Map: [HERE](https://rpubs.com/Boineelo/1112835)
 Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=6&t=395s)
-![swiss](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-14_Europe/swisseducation.png)
+![swiss](https://rpubs.com/Boineelo/1112835)
 
