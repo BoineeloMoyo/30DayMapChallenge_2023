@@ -160,5 +160,5 @@ Data: [Federal Office for Statistics](https://www.bfs.admin.ch/asset/de/px-x-150
 Tools: R and Rpub
 Interactive Map: [HERE](https://rpubs.com/Boineelo/1112835)
 Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=6&t=395s)
-![swiss](https://rpubs.com/Boineelo/1112835)
+![swiss](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-14_Europe/swisseducation.png)
 
