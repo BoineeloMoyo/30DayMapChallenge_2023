@@ -135,3 +135,15 @@ Check the high resolution image [here](https://github.com/BoineeloMoyo/-30DayMap
 Data: Hydrobasins + hydrorivers from the HydroSHEDS database
 
 ![peru](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-12_SouthAmerica/peru_rivers.png)
+
+---
+
+## Day 13: Choropleth
+### Time Series Analysis of Violent crimes in London
+
+This animated choropleth map illustrates the temporal analysis of "violent crimes against the person" in London Boroughs from 2009 to 2016, based on data from the Met Police and the London Datastore. This description enntails a spectrum of offenses, from minor incidents such as harassment and common assault to severe crimes like murder and bodily harm. Notably, Southwark and Lambeth exhibit the highest rates of gun and knife crime among the London Boroughs.
+
+Data: [London Datastore](https://data.london.gov.uk/dataset/recorded_crime_summary)
+Tools: Python[Script-Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_gif.ipynb)
+
+![Borough](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation2%20.gif)
