@@ -148,3 +148,16 @@ Data: [London Datastore](https://data.london.gov.uk/dataset/recorded_crime_summa
 Tools: Python[Script-Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_gif.ipynb)
 
 ![Borough](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation2%20.gif)
+
+---
+
+## Day 14: Europe
+### Interactive Map of Women's Education Level in Switzerland
+The interactive map explores the distribution percentage of total annual female education levels across Switzerland's cantons. For a wholistic interactivity, click [here](https://rpubs.com/Boineelo/1112835) to get to the map. Hover over the the map to get the actual percentage of each canton.
+
+Data: [Federal Office for Statistics](https://www.bfs.admin.ch/asset/de/px-x-1502000000_101)
+Tools: R and Rpub
+Interactive Map: [HERE](https://rpubs.com/Boineelo/1112835)
+Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=6&t=395s)
+![swiss](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-14_Europe/swisseducation.png)
+
