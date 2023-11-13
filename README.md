@@ -147,8 +147,8 @@ This animated choropleth map illustrates the temporal analysis of "violent crime
 
 Data: [London Datastore](https://data.london.gov.uk/dataset/recorded_crime_summary)
 Tools: Python[Script-Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_gif.ipynb)
-
-![Borough](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation2%20.gif)
+Gif Animation: [Click Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation.gif)
+![Borough](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation.gif)
 
 ---
 
@@ -161,4 +161,6 @@ Tools: R and Rpub
 Interactive Map: [HERE](https://rpubs.com/Boineelo/1112835)
 Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=6&t=395s)
 ![swiss](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-14_Europe/swisseducation.png)
+
+---
 
