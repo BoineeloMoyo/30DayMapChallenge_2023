@@ -19,9 +19,12 @@
 - [Day 12 South America: Hydrosheds Relief Shaded Map of Peru](#day-12-south-america)
 - [Day 13 Choroleth: Violent Crime Analysis in London Boroughs](#day-13-choropleth)
 - [Day 14 Europe: Interactive Map of Education Levels in Swiss](#day-14-europe)
+- [Day 15 OpenSteetMap: Plaza Del Ejecutivo, Mexico City, Mexico](#day-15-openstreetmap)
+- [Day 16 Oceania: Ocean Currents of the Madagascar Indian Ocean](#day-16-oceania)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
+
 Botswana shines as a global leader in the diamond industry, holding the prestigious title of the world's largest producer of diamonds by value and securing the second position by carats, just behind Russia. The nation boasts a robust diamond mining sector, housing several significant mines, including the Jwaneng Mine, renowned as the world's richest diamond mine in terms of value, and the Orapa Mine, which ranks as the world's largest in terms of area. Botswana's diamond production in 2022 alone exceeded an impressive 24.5 million carats.These exquisite gems have played a pivotal role in Botswana's extraordinary transformation, propelling it into the ranks of prosperous African nations. The revenues generated from the diamond industry have been instrumental in fueling vital sectors such as education, healthcare, and infrastructure development, paving the way for a brighter future.
 
   Data Source: [GADM level 1](https://gadm.org/download_country.html) , [GlobalData](https://www.globaldata.com/store/report/diamond-mining-market-analysis/), [Statista](https://www.statista.com/topics/1704/diamond-industry/#topicOverview).
@@ -32,6 +35,7 @@ Botswana shines as a global leader in the diamond industry, holding the prestigi
 ---
 ## Day 2: Lines
 ### Botswana Hydrosheds Map
+
 A map of Botswana hydrosheds illustrating the unique drainage basins of the country's various river systems using distinct colors. Major rivers are interconnected with their tributaries, all contributing to the overall drainage basin of the larger river systems.
 
   Data Source: [HydroSHEDS database](https://www.hydrosheds.org/products/hydrorivers), [GADM level 1](https://gadm.org/download_country.html)
@@ -42,6 +46,7 @@ A map of Botswana hydrosheds illustrating the unique drainage basins of the coun
 ---
 ## Day 3: Polygons
 ### The Delta Dessert Delta: Okavango
+
 Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionately known as "the delta that looks like a hand,", truly exemplifies Botswana's natural wonders. Its pristine waters not only support a rich tapestry of aquatic life but also attract a wealth of bird species, making it a vital birdwatcher's paradise. The Okavango Delta is also one of Botswana's major tourist attractions. The delta is surrounded by the renowned Chobe and Moremi national parks, offering a breathtaking showcase of biodiversity. Visitors are treated to the presence of the African Big Five—lion, elephant, rhinoceros, leopard, and buffalo, providing an unforgettable safari experience-
   Data Source: OSM 
   Tools: QGIS, Canva
@@ -59,6 +64,7 @@ This is a simple African continent boundary which i traced on a blank paper then
 ---
 ## Day 6: Asia
 ### Shaded Relief Map of Asia
+
 A shaded relief map of the Asian continent prominently highlighting the Tibetan Plateau, famously known as "the roof of the world". It is the largest and highest plateau in the world, boasting an average elevation of 4,500 m and covering a vast area of approximately 2,500,000 square kilometers. The plateu is surrounded by imposing mountain ranges that harbor the world's two highest summits, Mount Everest and K2.
   Data: [HydroSHEDS v1 (DEM)](https://www.hydrosheds.org/hydrosheds-core-downloads) from the SRTM (resolution~90m),
   Tools: QGIS; Canva
@@ -81,6 +87,7 @@ https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/assets/82944675/85fb7fbc
 ---
 ## Day 8: Africa
 ### A shaded Relief Map of Africa
+
 Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands.
 [High Resolution Image:](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
 Data: SRTM data downloaded from EarthEngine
@@ -107,6 +114,7 @@ Tools: QGIS, Canva
 
 ## Day 10: North America
 ### Forest Canopy Height of the US in 2020
+
 This map shows the 2020 forest canopy height of the USA. The map was produced based on the high resolution ETH Global Sentinel-2 10m Canopy Height data. Forests not only play a crucial role in sequestering carbon, helping combat climate change, but they also harbor a rich tapestry of biodiversity. 🌲🌳 #ForestConservation
 Data: [ETH Global Sentinel-2 10m Canopy Height (2020)](https://gee-community-catalog.org/projects/canopy/) 
 Tools: Google earth engine
@@ -154,6 +162,7 @@ Gif Animation: [Click Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2
 
 ## Day 14: Europe
 ### Interactive Map of Women's Education Level in Switzerland
+
 The interactive map explores the distribution percentage of total annual female education levels across Switzerland's cantons. For a wholistic interactivity, click [here](https://rpubs.com/Boineelo/1112835) to get to the map. Hover over the the map to get the actual percentage of each canton.
 
 Data: [Federal Office for Statistics](https://www.bfs.admin.ch/asset/de/px-x-1502000000_101)
@@ -164,3 +173,24 @@ Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoe
 
 ---
 
+## Day 15: OpenStreetMap
+### Best Urban Planned City: Plaza Del Ejecutivo (Mexico City, Mexico)
+
+Nestled in the heart of Mexico City, the Plaza Del Ejecutivo emerges as one of the best-designed urban areas in the world, seamlessly blending urban planning with cultural allure. This plaza has 16 streets extending gracefully from the plaza, creating a  mesmerizing pattern 
+
+Data: OSM
+Tools: Prettymapp code found [HERE](https://github.com/chrieke/prettymapp/tree/main)
+
+![mexico](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-15_OSM/Mexico%20City.png)
+
+
+---
+
+## Day 16: Oceania
+### Ocean Cuurents of the Indian Ocean surrounding Madagascar
+
+Data: [HYCOM dataset](https://developers.google.com/earth-engine/datasets/catalog/HYCOM_s)
+Tools: ArcGIS MapViewer, further processed in python to create a gif animation
+Tutorial: [John Nelson's Tutorial](https://www.youtube.com/watch?v=tszspQEk-1A)
+
+![ocean](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-16_Oceania/oceancurents.gif)
