@@ -21,6 +21,7 @@
 - [Day 14 Europe: Interactive Map of Education Levels in Swiss](#day-14-europe)
 - [Day 15 OpenSteetMap: Plaza Del Ejecutivo, Mexico City, Mexico](#day-15-openstreetmap)
 - [Day 16 Oceania: Ocean Currents of the Madagascar Indian Ocean](#day-16-oceania)
+- [Day 18 Atmosphere: Germany's Air Quality Index](#day-18-atmosphere)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -194,3 +195,16 @@ Tools: ArcGIS MapViewer, further processed in python to create a gif animation
 Tutorial: [John Nelson's Tutorial](https://www.youtube.com/watch?v=tszspQEk-1A)
 
 ![ocean](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-16_Oceania/oceancurents.gif)
+
+
+---
+
+## Day 18> Atmosphere
+### German's Air Quality Index
+This map illustrates the Air Quality Index (AQI) for particulate matter (PM2.5) across Germany. PM2.5 refers to tiny particles suspended in the atmosphere, which can have significant health implications when inhaled. 
+The levels are as follows: 0-50: Good 51 - 100: Moderate 101 - 150: Unhealthy for sensitive people, 151 - 200: Unhealthy 201 - 300: Very Unhealthy 300+ = Harzadous.
+Data: [Air Quality Open Data Platform](https://aqicn.org/api/de/)
+Tools: RStudio
+Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=15)
+
+![deutschland]()
