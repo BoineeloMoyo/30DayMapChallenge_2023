@@ -208,7 +208,7 @@ Data: [Air Quality Open Data Platform](https://aqicn.org/api/de/)
 Tools: RStudio
 Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=15)
 
-![deutschland]()
+![deutschland](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-18_Atmosphere/African%20Map.png)
 
 
 ----
