@@ -199,12 +199,18 @@ Tutorial: [John Nelson's Tutorial](https://www.youtube.com/watch?v=tszspQEk-1A)
 
 ---
 
-## Day 18> Atmosphere
+## Day 18: Atmosphere
 ### German's Air Quality Index
 This map illustrates the Air Quality Index (AQI) for particulate matter (PM2.5) across Germany. PM2.5 refers to tiny particles suspended in the atmosphere, which can have significant health implications when inhaled. 
 The levels are as follows: 0-50: Good 51 - 100: Moderate 101 - 150: Unhealthy for sensitive people, 151 - 200: Unhealthy 201 - 300: Very Unhealthy 300+ = Harzadous.
+
 Data: [Air Quality Open Data Platform](https://aqicn.org/api/de/)
 Tools: RStudio
 Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=15)
 
 ![deutschland]()
+
+
+----
+
+## Day 19: 5 Minute Map
