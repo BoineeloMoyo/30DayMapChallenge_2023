@@ -228,7 +228,7 @@ Data: OpenStreetMap
 
 ---
 
-##Day 20: Outdoors
+## Day 20: Outdoors
 ### The Annual Botswana Desert Bush Walk
 
 This map showcases the 2023 Winter Desert Bush Walk Routes in the vibrant town of Jwaneng, Botswana. This annual event has evolved into a beacon of adventure, drawing passionate walkers and hikers from across the Southern African landscape. This walk is usually in two categories: the 15km trail beckoning the adventurous souls, and the formidable 30km route reserved for those seeking the ultimate test of endurance across the Kalahari Desert sand. 
