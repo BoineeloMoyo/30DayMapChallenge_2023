@@ -249,3 +249,10 @@ A 3D spike map showing the population density of Malawi, highlighting the countr
 Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
 Tools: QGIS, Aeriaload
 ![malawi](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-21_Raster/malawi_pop.png)
+
+---
+
+## Day 23: 3D
+### 3D Population Density of Botswana
+
+![Botswana](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-23_3D/Botswana_Pop.png)
