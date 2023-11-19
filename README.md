@@ -22,6 +22,9 @@
 - [Day 15 OpenSteetMap: Plaza Del Ejecutivo, Mexico City, Mexico](#day-15-openstreetmap)
 - [Day 16 Oceania: Ocean Currents of the Madagascar Indian Ocean](#day-16-oceania)
 - [Day 18 Atmosphere: Germany's Air Quality Index](#day-18-atmosphere)
+- [Day 19 5 Minute Map: Gaborone's Capital City](#day-19-5-minute-map)
+- [Day 20 Outdoors: The Annual Botswana Desert Bush Walk](#day-20-outdoors)
+- [Day 21 Raster: Malawi's 3D Population Density](#day-21-raster)
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -214,3 +217,35 @@ Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PL
 ----
 
 ## Day 19: 5 Minute Map
+### Gaborone City Map
+A map of the government enclave area in Gaborone, Botswana, was generated in just 5 minutes and 44 seconds using the prettymapp app, developed by Christoph Rieke. The app uses OpenStreetMap datasets to render such maps for any place in the world.
+
+Tools: Prettymapp
+Data: OpenStreetMap
+
+![gabz](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-19_5_Minute_Map/Gaborone%20City.png)
+
+
+---
+
+##Day 20: Outdoors
+### The Annual Botswana Desert Bush Walk
+
+This map showcases the 2023 Winter Desert Bush Walk Routes in the vibrant town of Jwaneng, Botswana. This annual event has evolved into a beacon of adventure, drawing passionate walkers and hikers from across the Southern African landscape. This walk is usually in two categories: the 15km trail beckoning the adventurous souls, and the formidable 30km route reserved for those seeking the ultimate test of endurance across the Kalahari Desert sand. 
+
+Data: The Desert Bush Walk PRO
+Tools: QGIS, Canva
+
+![bushwalk](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-20_Outdoors/bushwalk_final.png)
+
+
+---
+
+## Day 21: Raster
+### Population Density of Malawi
+
+A 3D spike map showing the population density of Malawi, highlighting the country's most populous cities. This map basically offers a multidimensional perspective on the demographic landscape of Malawi. 
+
+Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
+Tools: QGIS, Aeriaload
+![malawi](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-21_Raster/malawi_pop.png)
