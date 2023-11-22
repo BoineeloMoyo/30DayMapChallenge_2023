@@ -28,6 +28,7 @@
 - [Day 23 3D: Botswana 3D Population Density Spike Map](#day-23-3d)
 - [Day 24 Black & White: Palapye Road Netowrk](#day-24-black-and-white)
 - [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-25-antartica)
+- [Day 26 Minimal: Animated NDVI for Botswana](#day-26-minimal)
 
 
 ## Day 1: Points 
@@ -310,3 +311,14 @@ Data: National Snow and Ice Data Center [NSIDC](https://nsidc.org/data/search#ke
 Tools: QGIS, CANVA
 
 ![antarctica](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-25_Antarctica/Antarctica.png)
+
+---
+
+## Day 26: Minimal
+### NDVI Timeseries of Botswana: 2022
+
+Data: [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2)
+
+Tools: Google Earth Engine
+
+![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
