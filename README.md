@@ -26,8 +26,8 @@
 - [Day 20 Outdoors: The Annual Botswana Desert Bush Walk](#day-20-outdoors)
 - [Day 21 Raster: Malawi's 3D Population Density](#day-21-raster)
 - [Day 23 3D: Botswana 3D Population Density Spike Map](#day-23-3d)
-- [Day 24 Black & White: Palapye Road Netowrk](#day-24-black-&-white)
-- [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-24-Antartica)
+- [Day 24 Black & White: Palapye Road Netowrk](#day-24-black-and-white)
+- [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-25-antartica)
 
 
 ## Day 1: Points 
@@ -288,7 +288,7 @@ Tools: QGIS, Aeriaload
 
 ---
 
-## Day 24: Black & White
+## Day 24: Black and White
 ### Palapye Road Network
 
 The map illustrates the road network infrastructure within Palapye, a rapidly growing urban center in Botswana. As one of the swiftly advancing cities in the region, Palapye's road network is depicted in detail, providing a comprehensive overview of the transportation framework that supports and connects the various facets of this rapidly growing municipality. 
