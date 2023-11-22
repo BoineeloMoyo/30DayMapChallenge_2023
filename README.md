@@ -25,6 +25,10 @@
 - [Day 19 5 Minute Map: Gaborone's Capital City](#day-19-5-minute-map)
 - [Day 20 Outdoors: The Annual Botswana Desert Bush Walk](#day-20-outdoors)
 - [Day 21 Raster: Malawi's 3D Population Density](#day-21-raster)
+- [Day 23 3D: Botswana 3D Population Density Spike Map](#day-23-3d)
+- [Day 24 Black & White: Palapye Road Netowrk](#day-24-black-&-white)
+- [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-24-Antartica)
+
 
 ## Day 1: Points 
 ### Botswana Diamond Mines
@@ -132,8 +136,10 @@ Tools: Google earth engine
 
 A basic retro map of Mozambique showing major cities, roads terrain and water bodies. 
 High Resolution Image [Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro.png)
+
 Data: OSM, SRTM for the hillshade. 
 Tools: QGIS, Canva
+
 Map inspiration: [Tutorial](https://www.youtube.com/watch?v=Srg0_TPsvBw&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=13)
 
 ![retro](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-11_Retro/Retro.png)
@@ -158,8 +164,11 @@ Data: Hydrobasins + hydrorivers from the HydroSHEDS database
 This animated choropleth map illustrates the temporal analysis of "violent crimes against the person" in London Boroughs from 2009 to 2016, based on data from the Met Police and the London Datastore. This description enntails a spectrum of offenses, from minor incidents such as harassment and common assault to severe crimes like murder and bodily harm. Notably, Southwark and Lambeth exhibit the highest rates of gun and knife crime among the London Boroughs.
 
 Data: [London Datastore](https://data.london.gov.uk/dataset/recorded_crime_summary)
+
 Tools: Python[Script-Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_gif.ipynb)
+
 Gif Animation: [Click Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation.gif)
+
 ![Borough](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-13_Choropleth/violence_animation.gif)
 
 ---
@@ -170,9 +179,13 @@ Gif Animation: [Click Here](https://github.com/BoineeloMoyo/-30DayMapChallenge_2
 The interactive map explores the distribution percentage of total annual female education levels across Switzerland's cantons. For a wholistic interactivity, click [here](https://rpubs.com/Boineelo/1112835) to get to the map. Hover over the the map to get the actual percentage of each canton.
 
 Data: [Federal Office for Statistics](https://www.bfs.admin.ch/asset/de/px-x-1502000000_101)
+
 Tools: R and Rpub
+
 Interactive Map: [HERE](https://rpubs.com/Boineelo/1112835)
+
 Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=6&t=395s)
+
 ![swiss](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-14_Europe/swisseducation.png)
 
 ---
@@ -183,6 +196,7 @@ Tutorial: [HERE](https://www.youtube.com/watch?v=f-Vnfe7WmJM&list=PLvf3n7WN1okoe
 Nestled in the heart of Mexico City, the Plaza Del Ejecutivo emerges as one of the best-designed urban areas in the world, seamlessly blending urban planning with cultural allure. This plaza has 16 streets extending gracefully from the plaza, creating a  mesmerizing pattern 
 
 Data: OSM
+
 Tools: Prettymapp code found [HERE](https://github.com/chrieke/prettymapp/tree/main)
 
 ![mexico](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-15_OSM/Mexico%20City.png)
@@ -194,7 +208,9 @@ Tools: Prettymapp code found [HERE](https://github.com/chrieke/prettymapp/tree/m
 ### Ocean Cuurents of the Indian Ocean surrounding Madagascar
 
 Data: [HYCOM dataset](https://developers.google.com/earth-engine/datasets/catalog/HYCOM_s)
+
 Tools: ArcGIS MapViewer, further processed in python to create a gif animation
+
 Tutorial: [John Nelson's Tutorial](https://www.youtube.com/watch?v=tszspQEk-1A)
 
 ![ocean](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-16_Oceania/oceancurents.gif)
@@ -208,7 +224,9 @@ This map illustrates the Air Quality Index (AQI) for particulate matter (PM2.5) 
 The levels are as follows: 0-50: Good 51 - 100: Moderate 101 - 150: Unhealthy for sensitive people, 151 - 200: Unhealthy 201 - 300: Very Unhealthy 300+ = Harzadous.
 
 Data: [Air Quality Open Data Platform](https://aqicn.org/api/de/)
+
 Tools: RStudio
+
 Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PLvf3n7WN1okoeKM8aIqRgyoI6pRHOiwh_&index=15)
 
 ![deutschland](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-18_Atmosphere/African%20Map.png)
@@ -221,6 +239,7 @@ Tutorial: [Milos Makes Maps](https://www.youtube.com/watch?v=O0NnSSnovV8&list=PL
 A map of the government enclave area in Gaborone, Botswana, was generated in just 5 minutes and 44 seconds using the prettymapp app, developed by Christoph Rieke. The app uses OpenStreetMap datasets to render such maps for any place in the world.
 
 Tools: Prettymapp
+
 Data: OpenStreetMap
 
 ![gabz](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-19_5_Minute_Map/Gaborone%20City.png)
@@ -234,6 +253,7 @@ Data: OpenStreetMap
 This map showcases the 2023 Winter Desert Bush Walk Routes in the vibrant town of Jwaneng, Botswana. This annual event has evolved into a beacon of adventure, drawing passionate walkers and hikers from across the Southern African landscape. This walk is usually in two categories: the 15km trail beckoning the adventurous souls, and the formidable 30km route reserved for those seeking the ultimate test of endurance across the Kalahari Desert sand. 
 
 Data: The Desert Bush Walk PRO
+
 Tools: QGIS, Canva
 
 ![bushwalk](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-20_Outdoors/bushwalk_final.png)
@@ -247,7 +267,9 @@ Tools: QGIS, Canva
 A 3D spike map showing the population density of Malawi, highlighting the country's most populous cities. This map basically offers a multidimensional perspective on the demographic landscape of Malawi. 
 
 Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
+
 Tools: QGIS, Aeriaload
+
 ![malawi](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-21_Raster/malawi_pop.png)
 
 ---
@@ -255,4 +277,36 @@ Tools: QGIS, Aeriaload
 ## Day 23: 3D
 ### 3D Population Density of Botswana
 
+Because i really enjoyed creating the population spike map of Malawi, i decided to explore the same for Botswana. Distinguished by its relatively sparse population, with only about 2.3 million residents, this 3D spike map depicts the population density across the country. Significant densities can be noticed within major urban centers. 
+
+Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
+
+Tools: QGIS, Aeriaload
+
 ![Botswana](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-23_3D/Botswana_Pop.png)
+
+
+---
+
+## Day 24: Black & White
+### Palapye Road Network
+
+The map illustrates the road network infrastructure within Palapye, a rapidly growing urban center in Botswana. As one of the swiftly advancing cities in the region, Palapye's road network is depicted in detail, providing a comprehensive overview of the transportation framework that supports and connects the various facets of this rapidly growing municipality. 
+
+Tools: QGIS
+Data: OpenStreetMap
+
+![palapye](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-24_Black_and_White/Palapye%20Road%20Network.png)
+
+---
+
+## Day 25: Antartica
+### Shape of Antarctica on the WGS84 Antarctic Polar Stereographic, EPSG:3031 Projection
+
+This map basically shows the shape of the Antartica when projected to WGS84 Antarctic Polar Stereographic, EPSG:3031. 
+
+Data: National Snow and Ice Data Center [NSIDC](https://nsidc.org/data/search#keywords=antarctica/sortKeys=score,,desc/facetFilters=%257B%257D/pageNumber=1/itemsPerPage=25)
+
+Tools: QGIS, CANVA
+
+![antarctica](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-25_Antarctica/Antarctica.png)
