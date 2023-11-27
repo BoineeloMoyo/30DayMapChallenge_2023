@@ -29,6 +29,7 @@
 - [Day 24 Black & White: Palapye Road Netowrk](#day-24-black-and-white)
 - [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-25-antartica)
 - [Day 26 Minimal: Animated NDVI for Botswana](#day-26-minimal)
+- [Day 28 Is This a Chart or a Map: Temperature Animation from the NetCDF Dataset](#day-28-is-this-a-chart-or-a-map)
 
 
 ## Day 1: Points 
@@ -323,3 +324,15 @@ Data: [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://develop
 Tools: Google Earth Engine
 
 ![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
+
+---
+## Day 28: Is This A Chart Or A Map
+### Air Temperature from the NetCDF Dataset
+
+Air Temperature Map produced from the NetCDF dataset from the NCEP (National Centers for Environmental Prediction) reanalysis subset. The NCEP reanalysis datasets often provide a comprehensive set of atmospheric variables on a regular grid and at multiple vertical levels over a long time period. 
+
+Data: NetCDF dataset from the NCEP
+Tools: Python
+Script: [HERE](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-28_Is_This_A_Chart_Or_A_Map/Data/tempearature_gif.ipynb)
+
+![NetCDF](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-28_Is_This_A_Chart_Or_A_Map/NetCDF_AirTemp.gif)
