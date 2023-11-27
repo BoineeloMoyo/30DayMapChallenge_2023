@@ -316,6 +316,7 @@ Tools: QGIS, CANVA
 
 ## Day 26: Minimal
 ### NDVI Timeseries of Botswana: 2022
+This map illustrates the dynamic temporal changes in the NDVI across the diverse landscapes of Botswana. Noteworthy is the fact that an expansive 70% of the country is covered by the Kalahari Desert, a vast and arid expanse that significantly influences the vegetation patterns captured in this timelapse.
 
 Data: [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2)
 
