@@ -340,7 +340,7 @@ Script: [HERE](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main
 
 ---
 
-## Day 29: Popuation
+## Day 29: Population
 ### Populaton Density Spike Map of Togo
 
 Presenting a population density spike map of Togo, one of Africa's smallest nations. With a population hovering around 8 million, Togo is also among the world's narrowest countries, spanning less than 115 km between Ghana and Benin. 
