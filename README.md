@@ -30,6 +30,7 @@
 - [Day 25 Antartica: Shape of Antartica on EPSG:3031](#day-25-antartica)
 - [Day 26 Minimal: Animated NDVI for Botswana](#day-26-minimal)
 - [Day 28 Is This a Chart or a Map: Temperature Animation from the NetCDF Dataset](#day-28-is-this-a-chart-or-a-map)
+- [Day 29 Population: Population Density Spike Map of Togo](#day-29-population)
 
 
 ## Day 1: Points 
@@ -336,3 +337,16 @@ Tools: Python
 Script: [HERE](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-28_Is_This_A_Chart_Or_A_Map/Data/tempearature_gif.ipynb)
 
 ![NetCDF](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-28_Is_This_A_Chart_Or_A_Map/NetCDF_AirTemp.gif)
+
+---
+
+## Day 29: Popuation
+### Populaton Density Spike Map of Togo
+
+Presenting a population density spike map of Togo, one of Africa's smallest nations. With a population hovering around 8 million, Togo is also among the world's narrowest countries, spanning less than 115 km between Ghana and Benin. 
+
+Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
+
+Tools: QGIS, Aeriaload
+
+![togo](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-29_Population/Togo_popdens.png)
