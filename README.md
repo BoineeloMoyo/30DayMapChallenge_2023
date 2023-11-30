@@ -31,6 +31,7 @@
 - [Day 26 Minimal: Animated NDVI for Botswana](#day-26-minimal)
 - [Day 28 Is This a Chart or a Map: Temperature Animation from the NetCDF Dataset](#day-28-is-this-a-chart-or-a-map)
 - [Day 29 Population: Population Density Spike Map of Togo](#day-29-population)
+- [Day 30 "My Favourite": Collection of Favourite Maps](#day-30-my-favourite)
 
 
 ## Day 1: Points 
@@ -350,3 +351,13 @@ Data: [WorldPop Hub](https://hub.worldpop.org/geodata/listing?id=76)
 Tools: QGIS, Aeriaload
 
 ![togo](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-29_Population/Togo_popdens.png)
+
+---
+## Day 30: My Favourite
+### A collection of my Favourite Maps from the challenge
+
+Day 30: "My Favourite"
+#30daymapchallenge
+
+In the tapestry of the #30daymap challenge that has woven through the past 30 days of my journey, each day has brought forth love, inspiration, learning, and the acquisition of new skills.Today's theme presented me with a delightful dilemma, choosing a favourite from the plethora of favorite maps crafted by talented individuals across this captivating challenge. Therefore, I've decided to curate a collection of my favorites among favorites. First, the Taz River REM map by @Mirza Waleed, impeccable and captivating visualizations. I can't wait to try it out. The second was by Jyoti Singh. Its the fusion of creativity and informativeness that stood out for me. Third, my very own personal contribution, a relief shaded map of Africa. I played around with so many tools and parameters on QGIS to achieve this and this stands as my personal best and favourite map i have ever made. The fourth a beautiful animated map of Airbnb's in Prague by Chiara Phillips. Although not specifically tailored for this challenge, i loved it for its sheer beauty and informative prowess. Lastly, but certainly not least, the map by Milos Popovic, PhD, for the urban areas in Italy. Thank you Milos Popovic, PhD for the abundance of knowledge you generously share through your YouTube tutorials.
+
