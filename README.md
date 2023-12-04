@@ -2,6 +2,10 @@
 
 ![header](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/supporting/%2330DayMapChallenge%202023.png)
 
+Here is a documentation of my contribution to the 30daymapchallenge 2023. All resources used in this challenge are neatly organized under the ChallengeMaterial folder, where each day has its own dedicated folders. Under Each day, you will find some of the Data folders with codes, data and images. 
+
+If you find this repository as indispensable as I do, please leave a star. And, should you choose to reuse or reproduce any part of my code, a shoutout would be greatly appreciated 😊.
+
 ---
 
 ## Table of Content:
