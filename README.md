@@ -45,7 +45,7 @@ Botswana shines as a global leader in the diamond industry, holding the prestigi
 
   Data Source: [GADM level 1](https://gadm.org/download_country.html) , [GlobalData](https://www.globaldata.com/store/report/diamond-mining-market-analysis/), [Statista](https://www.statista.com/topics/1704/diamond-industry/#topicOverview).
   Tools Used: QGIS for initial mapping, followed by enhancement with Canva.
-![Diamonds](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-1_Points/Botswana%20Diamonds.png)
+  ![Diamonds](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-1_Points/Botswana%20Diamonds.png)
 
 
 ---
@@ -65,7 +65,9 @@ A map of Botswana hydrosheds illustrating the unique drainage basins of the coun
 
 Still on Botswana. The Okavango Delta, a UNESCO World Heritage site affectionately known as "the delta that looks like a hand,", truly exemplifies Botswana's natural wonders. Its pristine waters not only support a rich tapestry of aquatic life but also attract a wealth of bird species, making it a vital birdwatcher's paradise. The Okavango Delta is also one of Botswana's major tourist attractions. The delta is surrounded by the renowned Chobe and Moremi national parks, offering a breathtaking showcase of biodiversity. Visitors are treated to the presence of the African Big Five—lion, elephant, rhinoceros, leopard, and buffalo, providing an unforgettable safari experience-
   Data Source: OSM 
+  
   Tools: QGIS, Canva
+  
 ![Okavango](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-3_Polygons/Okavango%20Delta.png)
 
 
@@ -83,6 +85,7 @@ This is a simple African continent boundary which i traced on a blank paper then
 
 A shaded relief map of the Asian continent prominently highlighting the Tibetan Plateau, famously known as "the roof of the world". It is the largest and highest plateau in the world, boasting an average elevation of 4,500 m and covering a vast area of approximately 2,500,000 square kilometers. The plateu is surrounded by imposing mountain ranges that harbor the world's two highest summits, Mount Everest and K2.
   Data: [HydroSHEDS v1 (DEM)](https://www.hydrosheds.org/hydrosheds-core-downloads) from the SRTM (resolution~90m),
+  
   Tools: QGIS; Canva
 
 ![Asia](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-6_Asia/Shaded%20Relief%20Map.png)
@@ -106,7 +109,9 @@ https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/assets/82944675/85fb7fbc
 
 Today's map showcases the diverse topographic features of Africa, from its majestic mountains and sprawling valleys to its expansive flatlands.
 [High Resolution Image:](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
+
 Data: SRTM data downloaded from EarthEngine
+
 Tools: EarthEngine, QGIS
 
 ![Africa](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-8_Africa/African%20Map.png)
@@ -323,7 +328,7 @@ Tools: QGIS, CANVA
 
 ## Day 26: Minimal
 ### NDVI Timeseries of Botswana: 2022
-This map illustrates the dynamic temporal changes in the NDVI across the diverse landscapes of Botswana. Noteworthy is the fact that an expansive 70% of the country is covered by the Kalahari Desert, a vast and arid expanse that significantly influences the vegetation patterns captured in this timelapse.
+![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
 
 Data: [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2)
 
