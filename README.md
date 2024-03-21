@@ -8,6 +8,7 @@ If you find this repository as indispensable as I do, please leave a star. And, 
 b
 ---
 
+
 ## Table of Content:
 
 - [Day 1 Points: Botswana Diamond Mines](#day-1-points)
