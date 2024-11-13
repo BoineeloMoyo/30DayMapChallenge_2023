@@ -333,8 +333,6 @@ Data: [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://develop
 
 Tools: Google Earth Engine
 
-![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
-
 ---
 ## Day 28: Is This A Chart Or A Map
 ### Air Temperature from the NetCDF Dataset
